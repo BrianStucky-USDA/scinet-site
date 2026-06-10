@@ -61,15 +61,17 @@ sidenav_append:
 
 ## What is SCINet?
 
-SCINet is the USDA-ARS's initiative for scientific computing. It consists of:
+SCINet is USDA-ARS's initiative for scientific computing. SCINet provides:
 
-1. High performance computer clusters for running command-line and graphical programs. There are currently two clusters: Ceres cluster in Ames IA and Atlas cluster in Starkville MS. SCINet also offers AWS cloud computing. See [SCINet HPC Systems]({{ site.baseurl }}/about/compute) for more detail.
-2. Network improvements across ARS.
-3. Support for computing through the Virtual Research Support Core (VRSC). See [VRSC Support]({{ site.baseurl }}/about/vrsc) for more detail.
-4. Training and workshop opportunities in multiple areas of scientific computing. See [our event calendar]({{ site.baseurl }}/events) for more information.
+1. High-performance computing (HPC) resources for scientific computing. SCINet currently offers all ARS researchers access to two supercomputers (also known as "HPC clusters"): "Ceres", located in Ames, IA, and "Atlas", located in Starkville, MS. SCINet also offers AWS cloud computing for certain use cases. See [SCINet HPC Systems]({{ site.baseurl }}/about/compute) for more details.
+1. Network improvements across ARS to support high-speed transfer of large datasets.
+1. Robust data storage and management tools.
+1. Technical support for computing through the Virtual Research Support Core (VRSC). See [VRSC Support]({{ site.baseurl }}/about/vrsc) for more details.
+1. Scientific computing research support through the SCINet Office that includes funding opportunities, capacity building, and consulting.
+1. Training and workshop opportunities in multiple areas of scientific computing. See [our event calendar]({{ site.baseurl }}/events) for more information.
 
-Users who are new to the HPC environment may benefit from the [SCINet/Ceres onboarding video](https://www.youtube.com/watch?v=d7oKSL4aitw) which covers most of the material contained in this guide. Note that /KEEP storage discussed in the video at 16:20 is no longer available. Instead data that cannot be easily reproduced should be manually backed up to [Juno]({{ site.baseurl }}/guides/data/storage#juno-permanent-storage). The instructional video at [https://www.youtube.com/watch?v=I3lnsCAfx3Q](https://www.youtube.com/watch?v=I3lnsCAfx3Q) demonstrates how to transfer files between local computer, Ceres, Atlas and Juno using Globus.
+Users who are new to HPC might benefit from the [SCINet/Ceres onboarding video](https://www.youtube.com/watch?v=d7oKSL4aitw) which covers most of the material contained in this guide. Note that /KEEP storage discussed in the video at 16:20 is no longer available. Instead data that cannot be easily reproduced should be manually backed up to [Juno]({{ site.baseurl }}/guides/data/storage#juno-permanent-storage). The instructional video at [https://www.youtube.com/watch?v=I3lnsCAfx3Q](https://www.youtube.com/watch?v=I3lnsCAfx3Q) demonstrates how to transfer files between local computer, Ceres, Atlas and Juno using Globus.
 
 ## User Guides
 
-**Use the navgation options or select one of the guides below to get started with SCINet**
+**Use the navigation options or select one of the guides below to get started with SCINet.**
