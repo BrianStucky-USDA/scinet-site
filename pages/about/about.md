@@ -8,13 +8,13 @@ breadcrumb_title: About
 
 [No account? Signup here.]({{ site.baseurl }}/about/signup){: .usa-button .usa-button-big }
 
-The SCINet initiative is an effort by the USDA Agricultural Research Service to improve the USDA’s research capacity by providing scientists with access to high-performance computing (HPC) clusters, high-speed networking for data transfer, and training in scientific computing.
+The SCINet initiative is an effort by the USDA Agricultural Research Service to enhance USDA’s research capacity by providing scientists with access to high-performance computing (HPC) resources, high-speed networking for data transfer, data storage, research support for scientific computing, and training and professional development opportunities for scientific computing.
 
-SCINet supports a growing community of over 2,000 USDA research scientists and university partners to accelerate agricultural discovery through advanced computational infrastructure and scientific computing. 
+SCINet supports a growing community of over 2,000 USDA research scientists and university partners who are using SCINet resources to accelerate agricultural discovery through advanced computational infrastructure and scientific computing. 
 
-Current uses of SCINet span multiple disciplines, including genomics, plant breeding, hydrology, crop production, plant and animal disease modeling, and natural resource management. SCINet users include ARS and other federal scientists, as well as partners external to the federal government.
+Current uses of SCINet span multiple disciplines, including genomics, plant breeding, hydrology, crop production, plant and animal disease modeling, and natural resource management. SCINet users include ARS and other federal scientists, as well as collaborators who are external to the federal government.
 
-SCINet supports a broad range of computational tools, including R (and RStudio), Python (and Jupyter notebooks), and software for bioinformatics, geospatial analyses, machine learning and deep learning, and image processing.
+SCINet supports a broad range of computational tools and workflows. SCINet's supercomputers offer a variety of popular development environments, such as RStudio, Jupyter notebooks, and Visual Studio Code. They also support desktop and web-based applications along with a vast array of command-line tools for innumerable scientific computing tasks, including bioinformatics, geospatial analyses, machine learning and deep learning, and UAV image processing and analysis.
 
 To get started using SCINet, [sign up for an account](/about/signup) and visit our [Quick Start Guide](/guides/start).
 
