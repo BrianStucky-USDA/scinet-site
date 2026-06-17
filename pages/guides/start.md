@@ -70,7 +70,7 @@ SCINet is USDA-ARS's initiative for scientific computing. SCINet provides:
 1. Scientific computing research support through the SCINet Office that includes funding opportunities, capacity building, and consulting.
 1. Training and workshop opportunities in multiple areas of scientific computing. See [our event calendar]({{ site.baseurl }}/events) for more information.
 
-Users who are new to HPC might benefit from the [SCINet/Ceres onboarding video](https://www.youtube.com/watch?v=d7oKSL4aitw) which covers most of the material contained in this guide. Note that /KEEP storage discussed in the video at 16:20 is no longer available. Instead data that cannot be easily reproduced should be manually backed up to [Juno]({{ site.baseurl }}/guides/data/storage#juno-permanent-storage). The instructional video at [https://www.youtube.com/watch?v=I3lnsCAfx3Q](https://www.youtube.com/watch?v=I3lnsCAfx3Q) demonstrates how to transfer files between local computer, Ceres, Atlas and Juno using Globus.
+{% comment %}Users who are new to HPC might benefit from the [SCINet/Ceres onboarding video](https://www.youtube.com/watch?v=d7oKSL4aitw) which covers most of the material contained in this guide. Note that /KEEP storage discussed in the video at 16:20 is no longer available. Instead data that cannot be easily reproduced should be manually backed up to [Juno]({{ site.baseurl }}/guides/data/storage#juno-permanent-storage). The instructional video at [https://www.youtube.com/watch?v=I3lnsCAfx3Q](https://www.youtube.com/watch?v=I3lnsCAfx3Q) demonstrates how to transfer files between local computer, Ceres, Atlas and Juno using Globus.{% endcomment %}
 
 ## User Guides
 
